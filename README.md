@@ -36,6 +36,6 @@ summary: acceptable. 60 pts maybe.
 - 2.2: Segment tree divide & conquer , Segment tree optimize making graph.
 - 2.3: Aho–Corasick algorithm.
 - 2.4: Radix sort , Suffix sort.
-- 2.5 null.
-- 2.6 SG function.
-- 2.7 null.
+- 2.5: null.
+- 2.6: SG function.
+- 2.7: null.
